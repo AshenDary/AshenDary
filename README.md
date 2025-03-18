@@ -13,7 +13,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 ## 🌐 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AshenDary)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshenDary)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWwyMGppcW9jMXY3eHg1ODRqc3c2dmp0Z3Z3MTlmYTFsYXB0NTdodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHOF8pfPZOt9p018zw/giphy.gif)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91M3FnMWc3NWZ5Mjluc2FjODB5OTAyd2JpdWs0ZGZ3d3ZjZmtoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIMRUJkfkOHb7cfasl/giphy.gif)
 
 ---
 
@@ -26,8 +26,8 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ## 📊 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDary&theme=nightowl&hide_border=false" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="250px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDary&theme=nightowl&hide_border=false" width="49%" height="260px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDary&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%">
 </div>
 
