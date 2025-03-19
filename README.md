@@ -1,4 +1,4 @@
-# 🚀 *Hello!**  
+
 <div align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 </div>
@@ -41,6 +41,9 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 <div align="center">
   <img src="https://media.tenor.com/XPRG-4ujVMIAAAAM/cat-work-in-progress.gif" width="400px">
+
+  ![Visitor Count](https://profile-counter.glitch.me/AshenDary/count.svg)
+  
 </div>
 
 ---
