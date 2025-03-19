@@ -27,7 +27,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 ## 📊 **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="47%" height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshenDary&theme=nightowl&hide_border=false" width="47%" height="150px">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshenDary&theme=nightowl&hide_border=false)
 </div>
 
 <div align="center">
