@@ -16,12 +16,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ---
 
-## <span style="display: inline-block; vertical-align: middle;">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="40px" height="32">
-  </picture>
-</span> <b>Tech Stack</b>  
+## 🧑🏿‍💻 **Tech Stacks**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,git,github" />
 </div>
