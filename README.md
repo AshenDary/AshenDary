@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 </div>
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXY3cGplMTd1OXlmMDVtcXltZGFxaXJvamhkaXdleTR1Y2p2ZGs1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS4z67KKaumbMVanT/giphy.gif" width="40px"> **Hi! I'm Jared Noel**  
+### <img src="https://www.animoticons.com/files/day-by-day/communicate-smiley-faces/165.gif" width="40px"> **Hi! I'm Jared Noel**  
 I am a **Computer Science student** specializing in **Machine Learning** and AI.  
 🔬 I love solving problems with code and creating unfinished projects.  
 💡 Always learning and exploring new things!  
@@ -16,7 +16,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ---
 
-## 🧑🏿‍💻 **Tech Stacks**  
+## <img src="https://www.animoticons.com/files/emotions/angry-smiley-faces/45.gif"> **Tech Stacks**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,git,github" />
 </div>
@@ -24,14 +24,14 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ---
 
-## 📊 **Stats**  
+## <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px"> **📊 Stats** <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px">  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="60%" height="400px">
 </div>
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NzbHAwNDJ2MXpzMXp5enp1MW4ycWNjZTBqemUwdWt3cWFrdHFmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc19gFwOaQWePTcQ/giphy.gif" width="40px"> **Fun Facts**
+## <img src="https://www.animoticons.com/files/holidays/halloween-smiley-faces/75.gif" width="40px"> **Fun Facts**
 - 🎧 I love **counting**  
 - 1️⃣ Counting   
 - 2️⃣ Counting 
