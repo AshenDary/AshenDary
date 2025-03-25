@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
+  <img src="https://raw.githubusercontent.com/AshenDary/AshenDary/main/video/terminal.gif" height ="400px" width="1000px">
 </div>
 
 ### <img src="https://www.animoticons.com/files/day-by-day/communicate-smiley-faces/165.gif" width="40px"> **Hi! I'm Jared Noel**  
