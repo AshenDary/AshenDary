@@ -28,9 +28,9 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ## <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px"> **📊 STATS** <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px">     
  
-<img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" width="60%" height="400px">
-<img src="https://nirzak-streak-stats.vercel.app/?user=AshenDary&theme=highcontrast&hide_border=false" width="60%" height="400px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDary&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="60%" height="400px">
+<img src="https://github-readme-stats.vercel.app/api?username=AshenDary&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" width="50%" height="300px">
+<img src="https://nirzak-streak-stats.vercel.app/?user=AshenDary&theme=highcontrast&hide_border=false" width="50%" height="300px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenDary&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" height="300px">
 
 
 </div>
