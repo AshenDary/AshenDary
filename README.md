@@ -18,7 +18,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ## <img src="https://www.animoticons.com/files/emotions/angry-smiley-faces/45.gif"> **Tech Stacks**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,git,github,mysql" />
 </div>
 
 
