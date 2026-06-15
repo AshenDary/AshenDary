@@ -4,7 +4,7 @@
 
 ### <img src="https://www.animoticons.com/files/day-by-day/communicate-smiley-faces/165.gif" width="40px"> **Hi! I'm Jared Noel**  
 I am a **Computer Science student** specializing in **Machine Learning** and AI.  
-🔬 I love solving problems with code and creating unfinished projects.  
+🔬 I am interested with AI and Data science.  
 💡 1 2 3 4 5
 
 ---
@@ -26,7 +26,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 <div align="center">
 
-## <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px"> **📊 STATS** <img src="https://www.animoticons.com/files/japanese-emoticons/small-pig-smiley-faces/25.gif" width="40px">     
+##**📊 STATS**   
  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshenDary&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashen's GitHub Stats" />
 
@@ -36,9 +36,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 ---
 
 ## <img src="https://www.animoticons.com/files/holidays/halloween-smiley-faces/75.gif" width="40px"> **Fun Facts**
-- 🎧 I love **counting**  
-- 1️⃣ Counting   
-- 2️⃣ Counting 
+-  I love **counting**  
 
 ---
 
