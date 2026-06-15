@@ -26,7 +26,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 <div align="center">
 
-##**📊 STATS**   
+##**📊 STATS**##   
  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshenDary&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashen's GitHub Stats" />
 
