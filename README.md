@@ -23,7 +23,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts,git,github,mysql,postgresql,react,tailwind,fastapi,supabase" />
   <br>
-  <img src="https://skillicons.dev/icons?i=pandas,npm,nodejs,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=pandas,npm,nodejs,nextjs" />
   <!-- Pandas & NumPy aren't in skillicons, but we include them via text below -->
 
 
