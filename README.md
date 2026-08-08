@@ -7,6 +7,8 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 🔬 I am interested in AI and Data science.  
 💡 1 2 3 4 5 6 7 8 9
 
+
+
 ---
 
 ## 🌐 **Connect with Me**
@@ -23,6 +25,9 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
   <br>
   <img src="https://skillicons.dev/icons?i=pandas,npm,nodejs,nextjs,vite" />
   <!-- Pandas & NumPy aren't in skillicons, but we include them via text below -->
+
+
+  
 </div>
 
 
@@ -30,7 +35,6 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 <div align="center">
 
-**📊 STATS**
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
@@ -40,8 +44,10 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ---
 
+
 ## <img src="https://www.animoticons.com/files/holidays/halloween-smiley-faces/75.gif" width="40px"> **Fun Facts**
 -  I love **counting**  
+
 
 ---
 
