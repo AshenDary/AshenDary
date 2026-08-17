@@ -5,7 +5,7 @@
 ### <img src="https://www.animoticons.com/files/day-by-day/communicate-smiley-faces/165.gif" width="40px"> **Hi! I'm Jared Noel**  
 I am a **Computer Science student** specializing in **Machine Learning** and AI.  
 🔬 I am interested in AI and Data science.  
-💡 1 2 3 4 5 6 7 8 9 
+💡 1 2 3 4 5 6 7 8 9 12
 
 
 ---
