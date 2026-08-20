@@ -17,35 +17,28 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 ---
 
 ## <img src="https://www.animoticons.com/files/emotions/angry-smiley-faces/45.gif"> **Tech Stack**  
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,git,github,mysql,postgresql,react,fastapi,supabase" />
   <br>
   <img src="https://skillicons.dev/icons?i=pandas,npm,nodejs,nextjs" />
   <!-- Pandas & NumPy aren't in skillicons, but we include them via text below -->
-
-
   
 </div>
-
 
 ---
 
 <div align="center">
 
-
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshenDary&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashen's GitHub Stats" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshenDary&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" /> |
+| <img src="https://github-stats-extended.vercel.app/api?username=AshenDary&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashen's GitHub Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshenDary&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" /> |
 
 </div>
 
 ---
 
-
 ## <img src="https://www.animoticons.com/files/holidays/halloween-smiley-faces/75.gif" width="40px"> **Fun Facts**
 -  I love **counting**  
-
 
 ---
 
