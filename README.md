@@ -9,7 +9,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ---
 
-## 🌐 **Connect with Me**
+## **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarednoel/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshenDary)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-olive-delta-ycyb4vorko.vercel.app)
@@ -18,11 +18,7 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 
 ## <img src="https://www.animoticons.com/files/emotions/angry-smiley-faces/45.gif"> **Tech Stack**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,git,github,mysql,postgresql,react,fastapi,supabase" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pandas,npm,nodejs,nextjs" />
-  <!-- Pandas & NumPy aren't in skillicons, but we include them via text below -->
-  
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,git,github,mysql,postgresql,react,fastapi,supabase,npm,nodejs,nextjs&perline=18" />
 </div>
 
 ---
@@ -34,11 +30,6 @@ I am a **Computer Science student** specializing in **Machine Learning** and AI.
 | <img src="https://github-stats-extended.vercel.app/api?username=AshenDary&show_icons=true&theme=highcontrast&hide_border=true" alt="Ashen's GitHub Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshenDary&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" /> |
 
 </div>
-
----
-
-## <img src="https://www.animoticons.com/files/holidays/halloween-smiley-faces/75.gif" width="40px"> **Fun Facts**
--  I love **counting**  
 
 ---
 
